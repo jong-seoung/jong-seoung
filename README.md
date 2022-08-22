@@ -11,9 +11,9 @@
 - jjong015189@gmail.com
 
 # 💻 Primary Tech Stacks
-- Frontend : 
-- Backend : 
-- Version Control : <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+- Frontend : <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+- Backend : <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+- Version Control : <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> 
 
 
 # 📚 Blog For Learning
