@@ -17,7 +17,10 @@
 
 
 # 📚 Blog For Learning
-### 
+
+[![블로그](https://user-images.githubusercontent.com/103155217/196610103-f6a0ce07-f0bc-49e8-927f-890360129170.png)](https://jongseoung.tistory.com)
+
+
 
 # 📃 Portfolio Website
 ### 
@@ -25,9 +28,9 @@
 
 
 
-#
+# 
 <br>
 
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jong-seoung&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jong-seoung&layout=compact&theme=cobalt) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjong015189)](https://solved.ac/jjong015189/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jong-seoung&show_icons=true&count_private=true&line_height=25&theme=cobalt&hide=stars) 
