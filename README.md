@@ -24,7 +24,7 @@
 
 # 📃 Portfolio Website
 ### 
-나중에 추가하기
+[나중에 추가하기](https://zinc-purple-bf4.notion.site/c8098e7a33ad47c3a8f08abf2c89b1b3?pvs=4)
 
 
 
