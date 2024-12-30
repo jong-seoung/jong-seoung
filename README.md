@@ -12,13 +12,6 @@
 
 ---
 
-## 🎯 목표 및 관심 분야
-현재 Docker와 DevOps를 공부하며, 클라우드 환경에서의 개발 및 배포 자동화에 관심을 두고 있습니다.  
-문제 해결 능력, 코드의 효율성과 성능 최적화를 위해 알고리즘 학습을 하고 있습니다.  
-CI/CD 도구를 활용한 효율적인 버전 관리와 배포 파이프라인 구축을 목표로 팀 프로젝트를 진행하고 있습니다.   
-
----
-
 ## ⌨️ Tech Stacks  
 **Framework**  
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)  
