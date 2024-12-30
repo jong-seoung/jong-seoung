@@ -7,7 +7,6 @@
 앞으로도 도전과 성장을 통해 더 나은 개발자로 발전해 나가겠습니다.
 
 📝 Blog: [블로그](https://jongseoung.tistory.com/)  
-📒 Protfolio: [노션](https://zinc-purple-bf4.notion.site/c8098e7a33ad47c3a8f08abf2c89b1b3?pvs=4)  
 📧 Email: jjong015189@gmail.com  
 
 ---
