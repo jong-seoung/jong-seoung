@@ -1,4 +1,4 @@
-https://github.com/jong-seoung/jong-seoung/blob/main/README.md# 🙋🏻‍♂️ Info  
+# 🙋🏻‍♂️ Info  
 **매일 성장하는 개발자 백종성**입니다.  
 새로운 기술과 지식을 꾸준히 습득하며 이를 체계적으로 정리하고 공유합니다.  
 문제의 원인을 분석하고 해결책을 찾아, 같은 실수를 반복하지 않도록 노력합니다.
