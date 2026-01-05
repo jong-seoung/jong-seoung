@@ -1,8 +1,3 @@
-# 🙋🏻‍♂️ Info  
-📝 Blog: [블로그](https://jongseoung.tistory.com/)  
-📧 Email: jjong015189@gmail.com  
-
----
 
 ## 🎖️ Certificate  
 - SQLD  
@@ -20,7 +15,3 @@
 
 ---
 
-## 🔥 Most Used Languages  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jong-seoung&show_icons=true&count_private=true&line_height=25&theme=cobalt)](https://github.com/jong-seoung)  
-
----
